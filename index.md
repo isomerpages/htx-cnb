@@ -19,9 +19,12 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: Highlight C
           description: Page A is important too
           url: /privacy/
+        - title: Gardens by the Bay
+          description: Beauty abounds in the Gardens.
+          url: https://gardensbythebay.com.sg/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
