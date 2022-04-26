@@ -21,7 +21,7 @@ sections:
           url: https://www.planetware.com/singapore/best-beaches-sin-1-8.htm
         - title: Top-Rated Tourist Attractions
           description: 20 Top-Rated Tourist Attractions in Singapore
-          url: https://everytravelguide.com/blog/Singapore.html
+          url: https://www.planetware.com/tourist-attractions/singapore-sin.htm
         - title: Best Areas & Hotels
           description: "Where to Stay in Singapore: Best Areas & Hotels"
           url: https://www.planetware.com/singapore/where-to-stay-in-singapore-best-areas-hotels-sin-1-2.htm
