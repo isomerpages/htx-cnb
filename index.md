@@ -13,9 +13,9 @@ sections:
       button: Who are we
       url: https://www.visitsingapore.com/travel-guide-tips/about-singapore/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Garden By the Bay
+          description: Beauty abounds in the Gardens.
+          url: https://www.gardensbythebay.com.sg/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
