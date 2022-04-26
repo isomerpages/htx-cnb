@@ -10,8 +10,8 @@ sections:
       title: "* Great City *"
       subtitle: This is a great city
       background: /images/Capture.png
-      button: Contact Us
-      url: /contact-us/
+      button: Who are we
+      url: https://www.visitsingapore.com/travel-guide-tips/about-singapore/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
