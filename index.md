@@ -16,15 +16,15 @@ sections:
         - title: Garden By the Bay
           description: Beauty abounds in the Gardens.
           url: https://www.gardensbythebay.com.sg/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Highlight C
-          description: Page A is important too
-          url: /privacy/
-        - title: Gardens by the Bay
-          description: Beauty abounds in the Gardens.
-          url: https://gardensbythebay.com.sg/
+        - title: Best Beaches
+          description: 9 Best Beaches in Singapore
+          url: https://www.planetware.com/singapore/best-beaches-sin-1-8.htm
+        - title: Top-Rated Tourist Attractions
+          description: 20 Top-Rated Tourist Attractions in Singapore
+          url: 20 Top-Rated Tourist Attractions in Singapore
+        - title: Best Areas & Hotels
+          description: "Where to Stay in Singapore: Best Areas & Hotels"
+          url: https://www.planetware.com/singapore/where-to-stay-in-singapore-best-areas-hotels-sin-1-2.htm
   - infobar:
       title: Infobar title
       subtitle: Subtitle
