@@ -25,10 +25,6 @@ sections:
         - title: Best Areas & Hotels
           description: "Where to Stay in Singapore: Best Areas & Hotels"
           url: https://www.planetware.com/singapore/where-to-stay-in-singapore-best-areas-hotels-sin-1-2.htm
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
@@ -39,4 +35,8 @@ sections:
       alt: Image alt text
       url: https://www.cnb.gov.sg/drug-information
       image: /images/Drug information.jpg
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
