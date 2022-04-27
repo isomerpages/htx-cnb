@@ -4,7 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Great City!
+notification: Beware of fake/phishing SMS messages or emails that impersonate
+  the Central Narcotics Bureau (CNB). CNB does not send clickable links in SMS
+  messages. CNB officers will only send emails from addresses ending with
+  “@cnb.gov.sg”. If in doubt, you may contact us via the official channels
+  listed at https://www.cnb.gov.sg/contact-us
 sections:
   - hero:
       title: "* Great City *"
