@@ -1,0 +1,4 @@
+collections:
+  drug-information:
+    output: true
+    order: []
