@@ -33,3 +33,14 @@ links:
         url: /permalink
       - title: PDE Publications
         url: /permalink
+  - title: News & Events
+    url: /permalink
+    sublinks:
+      - title: News
+        url: /permalink
+      - title: Events
+        url: /permalink
+      - title: Report (Overview)
+        url: /permalink
+      - title: CNB50
+        url: /permalink
