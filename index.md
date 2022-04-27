@@ -25,20 +25,17 @@ sections:
         - title: Best Areas & Hotels
           description: "Where to Stay in Singapore: Best Areas & Hotels"
           url: https://www.planetware.com/singapore/where-to-stay-in-singapore-best-areas-hotels-sin-1-2.htm
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Drug Information
+      subtitle: Commonly Abused Drugs
+      description: Drugs and Inhalants,  Drugs and Inhalants  Misuse of Drugs Act,
+        Precursor Control, Intoxicating Substances and Plants that Contain
+        Controlled Drugs
+      button: Learn More
       alt: Image alt text
+      url: https://www.cnb.gov.sg/drug-information
 ---
