@@ -38,4 +38,5 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.cnb.gov.sg/drug-information
+      image: /images/Drug information.jpg
 ---
