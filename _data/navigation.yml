@@ -5,20 +5,19 @@ links:
     sublinks:
       - title: Annual Bulletins
         url: https://www.cnb.gov.sg/about-us/annual-bulletins
-  - title: Drugs Information
-    collection: drug-information
-  - title: Education/Resources (PDE)
-    collection: education-and-resources
-  - title: News & Events
-    collection: news-and-events
-  - title: Careers
-    collection: careers
-  - title: Menu Title
+  - title: Drug Information
     url: /permalink
     sublinks:
-      - title: Submenu Title
+      - title: Drugs & Inhalants
         url: /permalink
-      - title: Submenu Title
+      - title: Intoxicating Substances
         url: /permalink
-      - title: Submenu Title
+      - title: Misuse of Drug Act
         url: /permalink
+      - title: Precursor Control
+        url: /permalink
+      - title: Controlled Drugs Plants
+        url: /permalink
+  - title: Menu Title 2
+    url: /permalink
+    sublinks: []
