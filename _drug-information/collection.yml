@@ -2,5 +2,6 @@ collections:
   drug-information:
     output: true
     order:
+      - privacy.md
       - faq.md
       - example-page.md
