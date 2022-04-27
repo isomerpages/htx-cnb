@@ -5,11 +5,11 @@ links:
     sublinks:
       - title: Annual Bulletins
         url: https://www.cnb.gov.sg/about-us/annual-bulletins
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
   - title: Drugs Information
-    collection: example-collection
+    collection: drug-information
+  - title: Education/Resources (PDE)
+    collection: education-and-resources
+  - title: News & Events
+    collection: news-and-events
+  - title: Careers
+    collection: careers
