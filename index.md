@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Central Narcotics Bureau
+description: Central Narcotics Bureau of the Singapore Government
+image: /images/CNB Logo.jpg
 permalink: /
 notification: Beware of fake/phishing SMS messages or emails that impersonate
   the Central Narcotics Bureau (CNB). CNB does not send clickable links in SMS
@@ -44,3 +44,4 @@ sections:
       subtitle: MEDIA RELEASES
       button: View More
 ---
+
