@@ -1,15 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Who we are
-    url: /example-page/
+  - title: Who we Are
+    url: https://www.cnb.gov.sg/about-us
+    sublinks:
+      - title: Annual Bulletins
+        url: https://www.cnb.gov.sg/about-us/annual-bulletins
   - title: Contact Us
     url: /contact-us/
   - title: Example Collection
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Who we Are
-    url: https://www.cnb.gov.sg/about-us
-    sublinks:
-      - title: Annual Bulletins
-        url: https://www.cnb.gov.sg/about-us/annual-bulletins
+  - title: Drugs Information
+    collection: example-collection
