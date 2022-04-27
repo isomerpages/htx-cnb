@@ -36,7 +36,7 @@ sections:
       url: https://www.cnb.gov.sg/drug-information
       image: /images/Drug information.jpg
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: News and Media
+      subtitle: MEDIA RELEASES
       button: View More
 ---
