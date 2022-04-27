@@ -13,3 +13,12 @@ links:
     collection: news-and-events
   - title: Careers
     collection: careers
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
