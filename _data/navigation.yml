@@ -8,8 +8,8 @@ links:
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Menu Title
-    url: /permalink
+  - title: Who we Are
+    url: https://www.cnb.gov.sg/about-us
     sublinks:
       - title: Submenu Title
-        url: /permalink
+        url: https://www.cnb.gov.sg/about-us/annual-bulletins
