@@ -18,6 +18,18 @@ links:
         url: /permalink
       - title: Controlled Drugs Plants
         url: /permalink
-  - title: Menu Title 2
+  - title: Education / Resources (PDE)
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: For Youth
+        url: /permalink
+      - title: For Communities
+        url: /permalink
+      - title: Core Programmes
+        url: /permalink
+      - title: United Against Drugs Coalition
+        url: /permalink
+      - title: Myths and Facts About Drugs
+        url: /permalink
+      - title: PDE Publications
+        url: /permalink
