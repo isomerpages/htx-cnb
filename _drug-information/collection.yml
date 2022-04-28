@@ -1,4 +1,5 @@
 collections:
   drug-information:
     output: true
-    order: []
+    order:
+      - Drugs and Inhalants.md
