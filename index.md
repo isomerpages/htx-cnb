@@ -17,10 +17,10 @@ sections:
           description: ""
           url: /
         - title: True Account of A Meth Abuser
-          description: 9 Best Beaches in Singapore
+          description: ""
           url: https://www.planetware.com/singapore/best-beaches-sin-1-8.htm
         - title: True Account of A NPS Abuser
-          description: 20 Top-Rated Tourist Attractions in Singapore
+          description: ""
           url: https://www.planetware.com/tourist-attractions/singapore-sin.htm
         - title: Oversea Drugs Consumption Advisory
           description: ""
