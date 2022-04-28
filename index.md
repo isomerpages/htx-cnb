@@ -11,11 +11,11 @@ notification: Beware of fake/phishing SMS messages or emails that impersonate
   listed at https://www.cnb.gov.sg/contact-us
 sections:
   - hero:
-      title: "* Great City *"
-      subtitle: This is a great city
-      background: /images/Capture.png
-      button: Who are we
-      url: https://www.visitsingapore.com/travel-guide-tips/about-singapore/
+      title: Central Narcotics Bureau
+      subtitle: For a drug free Singapore
+      background: /images/about us.jpg
+      button: About Us
+      url: /p
       key_highlights:
         - title: Garden By the Bay
           description: Beauty abounds in the Gardens.
@@ -44,4 +44,3 @@ sections:
       subtitle: MEDIA RELEASES
       button: View More
 ---
-
