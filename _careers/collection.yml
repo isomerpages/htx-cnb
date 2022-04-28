@@ -2,8 +2,6 @@ collections:
   careers:
     output: true
     order:
-      - Checkers.md
-      - SG FORM.md
       - Narcotics Officers.md
       - Civilian Officer.md
       - Officer Feature Stories/.keep
@@ -11,3 +9,5 @@ collections:
       - Officer Feature Stories/Dinesh Kumar Rai.md
       - Officer Feature Stories/Subashiyni Ramakrishnan.md
       - Officer Feature Stories/Taufiq Abdul Azim Bin Mohamed Azmai.md
+      - SG FORM.md
+      - Checkers.md
