@@ -13,7 +13,7 @@ sections:
   - hero:
       title: Central Narcotics Bureau
       subtitle: For a drug free Singapore
-      background: /images/CNB Logo.jpg
+      background: /images/about us.jpg
       button: About Us
       url: /p
       key_highlights:
