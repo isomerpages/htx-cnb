@@ -6,8 +6,9 @@ third_nav_title: Officer Feature Stories
 ---
 ![](/images/A%20Calling%20Beyond%20A%20Career.jpg)
 
-**A Calling Beyond A Career
-Sebastian Tan**
+**A Calling Beyond A Career**
+
+**Sebastian Tan**
 
 Senior Director (International Cooperation & Partnerships Division), MHA
 Deputy Director (Operations), CNB [2017 to 2021]
