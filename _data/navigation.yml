@@ -33,3 +33,10 @@ links:
         url: /permalink
   - title: Career
     collection: careers
+  - title: Drug Information
+    url: /permalink
+    sublinks:
+      - title: Drugs and Inhalants
+        url: /Drugs and Inhalants
+      - title: Submenu Title
+        url: /permalink
