@@ -11,11 +11,7 @@ notification: Beware of fake/phishing SMS messages or emails that impersonate
   listed at https://www.cnb.gov.sg/contact-us
 sections:
   - hero:
-      title: Central Narcotics Bureau
-      subtitle: For a drug free Singapore
-      background: /images/about us.jpg
-      button: About Us
-      url: /p
+      background: /images/CNB-about-us.jpg
       key_highlights:
         - title: Garden By the Bay
           description: Beauty abounds in the Gardens.
