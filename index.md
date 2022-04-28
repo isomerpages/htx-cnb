@@ -13,17 +13,17 @@ sections:
   - hero:
       background: /images/CNB-about-us.jpg
       key_highlights:
-        - title: Garden By the Bay
-          description: Beauty abounds in the Gardens.
-          url: https://www.gardensbythebay.com.sg/
-        - title: Best Beaches
+        - title: True Account of A HeroIn Abuser
+          description: ""
+          url: /
+        - title: True Account of A Meth Abuser
           description: 9 Best Beaches in Singapore
           url: https://www.planetware.com/singapore/best-beaches-sin-1-8.htm
-        - title: Top-Rated Tourist Attractions
+        - title: True Account of A NPS Abuser
           description: 20 Top-Rated Tourist Attractions in Singapore
           url: https://www.planetware.com/tourist-attractions/singapore-sin.htm
-        - title: Best Areas & Hotels
-          description: "Where to Stay in Singapore: Best Areas & Hotels"
+        - title: Oversea Drugs Consumption Advisory
+          description: ""
           url: https://www.planetware.com/singapore/where-to-stay-in-singapore-best-areas-hotels-sin-1-2.htm
   - infopic:
       title: Drug Information
