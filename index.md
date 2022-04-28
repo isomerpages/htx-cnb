@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: True Account of A HeroIn Abuser
           description: ""
-          url: /
+          url: ""
         - title: True Account of A Meth Abuser
           description: ""
           url: https://www.planetware.com/singapore/best-beaches-sin-1-8.htm
@@ -24,7 +24,7 @@ sections:
           url: https://www.planetware.com/tourist-attractions/singapore-sin.htm
         - title: Oversea Drugs Consumption Advisory
           description: ""
-          url: https://www.planetware.com/singapore/where-to-stay-in-singapore-best-areas-hotels-sin-1-2.htm
+          url: /highlights/Oversea-Drug-Consumption-Advisory
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
