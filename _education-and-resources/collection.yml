@@ -1,5 +1,0 @@
-collections:
-  education-and-resources:
-    output: true
-    order:
-      - For Youth.md
