@@ -5,6 +5,13 @@ links:
     sublinks:
       - title: Annual Bulletins
         url: https://www.cnb.gov.sg/about-us/annual-bulletins
+  - title: Drug Information
+    url: /permalink
+    sublinks:
+      - title: Drugs and Inhalants
+        url: /drug Information/Drugs and Inhalants
+      - title: Submenu Title
+        url: /permalink
   - title: Education / Resources (PDE)
     url: /permalink
     sublinks:
@@ -33,10 +40,3 @@ links:
         url: /permalink
   - title: Career
     collection: careers
-  - title: Drug Information
-    url: /permalink
-    sublinks:
-      - title: Drugs and Inhalants
-        url: /drug Information/Drugs and Inhalants
-      - title: Submenu Title
-        url: /permalink
