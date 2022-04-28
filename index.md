@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: True Account of A Drug Abuser
           description: ""
-          url: /highlights/Abuser
+          url: /highlights/Drug-Abuser
         - title: Oversea Drugs Consumption Advisory
           description: ""
           url: /highlights/Oversea-Drug-Consumption-Advisory
