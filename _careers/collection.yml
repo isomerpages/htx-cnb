@@ -2,8 +2,8 @@ collections:
   careers:
     output: true
     order:
-      - Officer Feature Stories/Dinesh Kumar Rai.md
-      - Officer Feature Stories/Sebastian Tan.md
-      - Officer Feature Stories/.keep
       - Narcotics Officers.md
       - Civilian Officer.md
+      - Officer Feature Stories/.keep
+      - Officer Feature Stories/Dinesh Kumar Rai.md
+      - Officer Feature Stories/Sebastian Tan.md
