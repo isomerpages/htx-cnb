@@ -13,15 +13,9 @@ sections:
   - hero:
       background: /images/CNB-about-us.jpg
       key_highlights:
-        - title: True Account of A HeroIn Abuser
+        - title: True Account of A Drug Abuser
           description: ""
           url: /highlights/Abuser
-        - title: True Account of A Meth Abuser
-          description: ""
-          url: /highlights/Abuser
-        - title: True Account of A NPS Abuser
-          description: ""
-          url: https://www.planetware.com/tourist-attractions/singapore-sin.htm
         - title: Oversea Drugs Consumption Advisory
           description: ""
           url: /highlights/Oversea-Drug-Consumption-Advisory
