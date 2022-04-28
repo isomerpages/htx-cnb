@@ -11,3 +11,4 @@ Stay away from drugs
 
 * CNB conducts enforcement checks at Singapore's checkpoints and will take action against those found to have consumed drugs overseas.
 
+[Read About Oversea Advisory](/Misuse of Drugs Act (MDA))
