@@ -34,9 +34,9 @@ links:
   - title: Career
     collection: careers
   - title: Drug Information
-    url: /drug Information/Drugs and Inhalants
+    url: /permalink
     sublinks:
       - title: Drugs and Inhalants
-        url: /Drugs and Inhalants
+        url: /drug Information/Drugs and Inhalants
       - title: Submenu Title
         url: /permalink
