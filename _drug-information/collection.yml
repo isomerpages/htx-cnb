@@ -2,4 +2,5 @@ collections:
   drug-information:
     output: true
     order:
+      - INTOXICATING SUBSTANCES ACT (INSA).md
       - Drugs and Inhalants.md
