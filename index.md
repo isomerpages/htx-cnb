@@ -15,16 +15,17 @@ sections:
       key_highlights:
         - title: True Account of A HeroIn Abuser
           description: ""
-          url: ""
+          url: /highlights/Abuser
         - title: True Account of A Meth Abuser
           description: ""
-          url: https://www.planetware.com/singapore/best-beaches-sin-1-8.htm
+          url: /highlights/Abuser
         - title: True Account of A NPS Abuser
           description: ""
           url: https://www.planetware.com/tourist-attractions/singapore-sin.htm
         - title: Oversea Drugs Consumption Advisory
           description: ""
           url: /highlights/Oversea-Drug-Consumption-Advisory
+      url: /highlights/Abuser
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
