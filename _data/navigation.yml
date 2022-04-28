@@ -31,20 +31,5 @@ links:
         url: /permalink
       - title: CNB50
         url: /permalink
-  - title: Careers
-    url: /permalink
-    sublinks:
-      - title: Narcotics Officers
-        url: /permalink
-      - title: Civilian Officers
-        url: /permalink
-      - title: Scholarship & Sponsorship
-        url: /permalink
-      - title: Internship
-        url: /permalink
-      - title: Career Roadmap
-        url: /permalink
-      - title: Officer Feature Stories
-        url: /permalink
-  - title: Career using Folder
+  - title: Career
     collection: careers
