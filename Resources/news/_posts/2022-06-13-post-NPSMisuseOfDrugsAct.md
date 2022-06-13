@@ -16,7 +16,7 @@ With effect from 1 June 2022, the Central Narcotics Bureau (CNB) will be listing
 
 3.           Their listing in the First Schedule will allow CNB to take decisive action against the abuse and trafficking of such substances.
 
-Global NPS Situation
+**Global NPS Situation**
 
 4.           There has been a rapid increase in the number, types and availability of NPS across the globe. Based on a report released in January 2022 by the United Nations Office on Drugs and Crime, there were at least 1,124 NPS reported from 2009 to December 20212.
 
@@ -25,8 +25,8 @@ Global NPS Situation
 
 
 
-CENTRAL NARCOTICS BUREAU
-31 May 2022
+**CENTRAL NARCOTICS BUREAU
+31 May 2022**
 
 
 1 New psychoactive substances (NPS) are substances which produce the or similar effects as controlled drugs such as cannabis, cocaine, “ecstasy”, methamphetamine or heroin.
@@ -34,9 +34,7 @@ CENTRAL NARCOTICS BUREAU
 2 ‘January 2022 – UNDOC-SMART: 1,124 NPS reported to UNODC from 134 countries and territories’. United Nations Office on Drugs and Crime (UNODC) announcement. Accessible at : https://www.unodc.org/LSS/Announcement/Details/40df1bf0-4f70-4862-844e-20536e0d95fd 
 
 
-
-
-Annex A
+**Annex A**
 Substances Listed in the First Schedule as Class A Controlled Drug (with effect from 1 June 2022)
 
 1. N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-5-bromo-1H-indazole-3-carboxamide (also known as ADB-5-Bromo-INACA) and its bromo positional isomers in the 6-membered ring of the indazole structure
