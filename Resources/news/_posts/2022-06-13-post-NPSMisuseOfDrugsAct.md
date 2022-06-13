@@ -12,7 +12,7 @@ With effect from 1 June 2022, the Central Narcotics Bureau (CNB) will be listing
 
 **Listing of 13 NPS in the First Schedule to the MDA**
 
-2.           Following the listing of the 13 NPS as Class A controlled drugs, the trafficking, manufacture, import, export, possession or consumption of these substances will constitute an offence under the MDA. Persons found guilty of trafficking Class A controlled drugs will face a minimum of five years’ imprisonment and five strokes of the cane. They will also be liable for enhanced penalties if they re-offend or sell to young or vulnerable persons. CNB will also be empowered to subject abusers of these NPS to supervision, commit them to a drug rehabilitation centre for treatment and rehabilitation, or charge them in court.
+2.           Following the listing of the 13 NPS as Class A controlled drugs, the trafficking, manufacture, import, export, possession or consumption of these substances will constitute an offence under the MDA. Persons found guilty of trafficking Class A controlled drugs will face a minimum of five years’ imprisonment and five strokes of the cane. They will also be liable for enhanced penalties if they re-offend or sell to young or vulnerable persons. CNB will also be empowered to subject abusers of these NPS to supervision, commit them to a drug rehabilitation centre for treatment and rehabilitation, or charge them in court. 
 
 3.           Their listing in the First Schedule will allow CNB to take decisive action against the abuse and trafficking of such substances.
 
