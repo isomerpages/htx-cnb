@@ -2,5 +2,6 @@ collections:
   drug-information:
     output: true
     order:
+      - Misuse of Drugs Act.md
       - Drugs and Inhalants.md
       - Intoxicating and substances Act (INSA).md
