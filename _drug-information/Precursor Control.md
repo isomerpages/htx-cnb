@@ -14,3 +14,32 @@ As a result of Singapore's accession to the 1988 Convention, the Misuse of Drugs
 Please click here to go to [PATROL](https://licence1.business.gov.sg/web/frontier/eadvisor?agencyCode=CNB).
 
 
+**PATROL INTRODUCTION**  
+  
+PATROL is abbreviated form for Permit Administration and ConTROL System. The main objective of PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government’s direction to move towards Electronic Services  
+  
+Click here to go to [PATROL](https://licence1.business.gov.sg/web/frontier/eadvisor?agencyCode=CNB).  
+  
+  
+**BENEFITS:**
+
+*   Trader Self-Service – Registration, Application Status, etc
+*   Immediate access to information anytime, anywhere.
+*   Traders and companies having greater autonomy in keeping own company profiles up-to-date
+
+  
+
+**WHAT'S NEEDED:**
+
+*   PC/notebook with minimum 2GB RAM.
+*   A reliable connection to the Internet.
+*   Installed with Internet Explorer 9 and above.
+*   JavaScript is enabled for the Internet browser.
+*   Internet browser cookies are enabled
+*   Internet browser cache and temp folder are cleared.
+
+  
+
+**HELPLINE:**
+
+*   Contact CNB PCU officers at 63251184, 63244908 or 63251120 for assistance if you encounter any difficulties.
