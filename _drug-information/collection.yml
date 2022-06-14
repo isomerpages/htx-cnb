@@ -2,6 +2,7 @@ collections:
   drug-information:
     output: true
     order:
+      - Precursor Control.md
       - Misuse of Drugs Act.md
       - Drugs and Inhalants.md
       - Intoxicating and substances Act (INSA).md
