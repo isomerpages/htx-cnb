@@ -3,8 +3,8 @@ links:
   - title: Who we Are
     url: https://www.cnb.gov.sg/about-us
     sublinks:
-      - title: Annual Bulletins
-        url: https://www.cnb.gov.sg/about-us/annual-bulletins
+      - title: Annual Reports
+        url: https://www.cnb.gov.sg/about-us/annual-reports
   - title: Drug Information
     url: /permalink
     sublinks:
@@ -46,3 +46,10 @@ links:
         url: /permalink
   - title: Career
     collection: careers
+  - title: Menu Title
+    resource_room: true
+  - title: explainers
+    url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
