@@ -19,6 +19,12 @@ sections:
         - title: Oversea Drugs Consumption Advisory
           description: ""
           url: /highlights/Oversea-Drug-Consumption-Advisory
+        - title: "Key Highlight #3"
+          description: Key Highlight description
+          url: /highlights/Oversea-Drug-Consumption-Advisory
+        - title: "Key Highlight #4 (Max)"
+          description: Key Highlight description
+          url: /highlights/Oversea-Drug-Consumption-Advisory
       url: /highlights/Abuser
   - infopic:
       title: Drug Information
