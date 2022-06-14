@@ -16,7 +16,7 @@ sections:
         - title: True Account of A Drug Abuser
           description: ""
           url: /highlights/Drug-Abuser
-        - title: Oversea Drugs Consumption Advisory
+        - title: Overseas Drugs Consumption Advisory
           description: ""
           url: /highlights/Oversea-Drug-Consumption-Advisory
         - title: "Key Highlight #3"
@@ -26,6 +26,7 @@ sections:
           description: Key Highlight description
           url: /highlights/Oversea-Drug-Consumption-Advisory
       url: /highlights/Abuser
+      button: misuse of drugs act
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
@@ -37,7 +38,12 @@ sections:
       url: https://www.cnb.gov.sg/drug-information
       image: /images/Drug information.jpg
   - resources:
-      title: News and Media
-      subtitle: MEDIA RELEASES
+      title: NEWS AND EVENTS
+      subtitle: MEDIA ROOM
       button: View More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
