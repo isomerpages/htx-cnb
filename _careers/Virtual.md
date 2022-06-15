@@ -11,19 +11,21 @@ Guided by experienced CNB officers, the tour offers visitors a chance to learn a
 
 CNB Heritage Gallery is located at Blk B, Police Cantonment Complex, 393 New Bridge Road, Singapore 088763.
 ______
-<p>This is demo content.</p>
-Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*
-_________
+<font color=#FF0000 size=2> 
+Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*</font>
+
+______________
 
 **Virtual tours NEW**
 
---[Sneak peak of our Heritage Gallery](<iframe style="width:100%;height:500px" id="iframe1"></iframe>)
+[Video](https://ap-southeast-1-02850030-view.menlosecurity.com/c/0/i/aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9PVHMtWWIzNVYycy9zZGRlZmF1bHQuanBn?b=dymFpx05&amp;k=1r2TAHBgBfcpA99ZwOm2QfL0c87CUuuyKIKPwzudAF8~&quot;target="_blank")
+
+
+
 
 Hosted by CNB officers from the Community Partnership Division, this 6.45-minute-long video provides a quick introduction to the heritage of CNB and offers a sneak peek of the Gallery.
 
 This video is the perfect classroom resource for educators looking for an introductory video to use in your drug education lessons with the students.
-
---[360 Virtual Tour](<iframe id="iframe2"></iframe>)
 
 
 [Feedback]
