@@ -3,7 +3,7 @@ title: Virtual
 permalink: /careers/Virtual
 description: ""
 ---
-[Vica](https://webchat.vica.gov.sg/static/js/chat.js)
+**1.  For VICA, we are to provide Isomer team the JS, CSS and website Codes, the team will help us to implement.  Remember the image updates too.**
 
 The CNB Heritage Gallery tour is a key component in CNB’s Learning Journey programme, and is offered to schools and various public organisations to help members of the public gain a better understanding of Singapore’s history with drug abuse and drug control strategies. It is also offered to schools as part of the [after school engagement](https://www.cnb.gov.sg/educational-resources/core-programmes/after-school-engagement-programme)
 
@@ -11,19 +11,20 @@ Guided by experienced CNB officers, the tour offers visitors a chance to learn a
 
 CNB Heritage Gallery is located at Blk B, Police Cantonment Complex, 393 New Bridge Road, Singapore 088763.
 ______
-*Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*
+<p>This is demo content.</p>
+Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*
 _________
 
 **Virtual tours NEW**
 
---[Sneak peak of our Heritage Gallery](<iframe id="iframe1" --src=https://youtu.be/OTs-Yb35V2s style="width:100%;height:500px"></iframe>)
+--[Sneak peak of our Heritage Gallery](<iframe style="width:100%;height:500px" id="iframe1"></iframe>)
 
 Hosted by CNB officers from the Community Partnership Division, this 6.45-minute-long video provides a quick introduction to the heritage of CNB and offers a sneak peek of the Gallery.
 
 This video is the perfect classroom resource for educators looking for an introductory video to use in your drug education lessons with the students.
 
---[360 Virtual Tour](<iframe id="iframe2" --src=https://www.cnb.gov.sg/heritage-gallery-virtual-tour/ --style="width:100%;height:500px"></iframe>)
+--[360 Virtual Tour](<iframe id="iframe2"></iframe>)
 
 
 [Feedback]
-<iframe id="iframe3" src=https://form.gov.sg/629dcaccfcba250012b5909b style="width:100%;height:500px"></iframe>
+<iframe style="width:100%;height:500px" src="https://form.gov.sg/629dcaccfcba250012b5909b" id="iframe3"></iframe>
