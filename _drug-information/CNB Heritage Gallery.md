@@ -47,3 +47,6 @@ Intended <iframe> content violates Content Security Policy and therefore could n
 **4. SGform can be display within the frame**
 [Feedback]
 <iframe style="width:100%;height:500px" src="https://form.gov.sg/629dcaccfcba250012b5909b" id="iframe3"></iframe>
+
+
+**5. documents that are more than 5MB, can we apply storage space?? eg google drive etc? how CNB apply, can Isomer tram advise?
