@@ -3,7 +3,6 @@ title: Narcotics Officers
 permalink: /careers/Narcotics-Officers
 description: ""
 ---
-
 **Narcotics Officer**
 We are looking for individuals who are passionate about the drug-free cause. When you join us as a Narcotics Officer, you will be embarking on an exciting and rewarding career with the Home Team to contribute towards making Singapore a safe and secure home.
 
@@ -37,6 +36,14 @@ Upon joining CNB, you will be exempted from all NS (reservist) activities. The e
 * DIRECT-ENTRY SERGEANT
 
 **FREQUENTLY ASKED QUESTIONS**
+
+
+
+| test | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+dsds | fdfd | dsdsdsd
+
 
 1.  What is the job application process for the Narcotics Officer position? When should I apply?
 
