@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Testing sub/testing.md
       - Testing sub/.keep
       - Narcotics Officers.md
       - Civilian Officer.md
