@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Testing sub/.keep
-      - testing.md
       - Narcotics Officers.md
       - Civilian Officer.md
       - Officer Feature Stories/.keep
