@@ -2,6 +2,7 @@ collections:
   drug-information:
     output: true
     order:
+      - CNB Heritage Gallery.md
       - Virtual.md
       - Plants Contain Controlled Drugs.md
       - Precursor Control.md
