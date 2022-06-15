@@ -15,11 +15,19 @@ ______
 Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*</font>
 
 ______________
+<!--
+issue 1 :- Using this facing this issue "Intended <iframe> content violates Content Security Policy and therefore could not be displayed. Isomer does not support display of any forbidden resources.  
+Intended <iframe> content violates Content Security Policy and therefore could not be displayed. Isomer does not support display of any forbidden resources.
+
+<iframe src="" style="border: 2px solid blue;"></iframe>
+<iframe style="width:100%;height:500px" src="https://youtu.be/OTs-Yb35V2s" id="iframe1"></iframe>
+-->
+
+[Sneak peak of our Heritage Gallery](https://youtu.be/OTs-Yb35V2s;target="_blank")
 
 **Virtual tours NEW**
 
 [Video](https://ap-southeast-1-02850030-view.menlosecurity.com/c/0/i/aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9PVHMtWWIzNVYycy9zZGRlZmF1bHQuanBn?b=dymFpx05&amp;k=1r2TAHBgBfcpA99ZwOm2QfL0c87CUuuyKIKPwzudAF8~&quot;target="_blank")
-
 
 
 
