@@ -3,7 +3,6 @@ title: Virtual
 permalink: /careers/Virtual
 description: ""
 ---
-
 **1.  For VICA, we are to provide Isomer team the JS, CSS and website Codes, the team will help us to implement.  Remember the image updates too.**
 
 The CNB Heritage Gallery tour is a key component in CNB’s Learning Journey programme, and is offered to schools and various public organisations to help members of the public gain a better understanding of Singapore’s history with drug abuse and drug control strategies. It is also offered to schools as part of the [after school engagement](https://www.cnb.gov.sg/educational-resources/core-programmes/after-school-engagement-programme)
