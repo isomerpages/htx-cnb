@@ -26,7 +26,8 @@ Intended <iframe> content violates Content Security Policy and therefore could n
 
 **Virtual tours NEW**
 
-[Sneak peak of our Heritage Gallery](https://youtu.be/OTs-Yb35V2s)
+**2. Video but how to display in a frame with the image on
+[Sneak peak of our Heritage Gallery](https://youtu.be/OTs-Yb35V2s)**
 
 Hosted by CNB officers from the Community Partnership Division, this 6.45-minute-long video provides a quick introduction to the heritage of CNB and offers a sneak peek of the Gallery.
 
@@ -40,7 +41,9 @@ Intended <iframe> content violates Content Security Policy and therefore could n
 <iframe style="width:100%;height:500px" src="https://www.cnb.gov.sg/heritage-gallery-virtual-tour" id="iframe2"></iframe>
 -->
 
+**3. Virtual Tour, but how to display within a frame and with image on**
 **[360 degree virtual tour](https://www.cnb.gov.sg/heritage-gallery-virtual-tour)**
 
+**4. SGform can be display within the frame**
 [Feedback]
 <iframe style="width:100%;height:500px" src="https://form.gov.sg/629dcaccfcba250012b5909b" id="iframe3"></iframe>
