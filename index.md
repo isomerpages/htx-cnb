@@ -50,8 +50,8 @@ sections:
       subtitle: MEDIA ROOM
       button: View More
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
+      title: Nice to meet u :)
+      subtitle: This is a infobar testing
       description: Infobar description
       button: Button Text
 ---
