@@ -37,6 +37,14 @@ sections:
       alt: Image alt text
       url: https://www.cnb.gov.sg/drug-information
       image: /images/Drug information.jpg
+  - infopic:
+      title: Sam testing
+      subtitle: TEST 2nd Infopic section
+      description: Test will images scrolling
+      button: More info
+      url: https://www.cnb.gov.sg
+      alt: Image alt text
+      image: /images/Capture.png
   - resources:
       title: NEWS AND EVENTS
       subtitle: MEDIA ROOM
@@ -46,12 +54,4 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-  - infopic:
-      title: Sam testing
-      subtitle: TEST 2nd Infopic section
-      description: Test will images scrolling
-      button: More info
-      url: https://www.cnb.gov.sg
-      alt: Image alt text
-      image: /images/Capture.png
 ---
