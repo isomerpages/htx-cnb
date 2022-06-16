@@ -43,6 +43,7 @@ Intended <iframe> content violates Content Security Policy and therefore could n
 
 **3. Virtual Tour, but how to display within a frame and with image on**
 **[360 degree virtual tour](https://www.cnb.gov.sg/heritage-gallery-virtual-tour)**
+<a href="https://www.cnb.gov.sg/heritage-gallery-virtual-tour">link text</a>
 
 **4. SGform can be display within the frame**
 [Feedback]
