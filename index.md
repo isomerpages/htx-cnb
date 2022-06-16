@@ -53,4 +53,5 @@ sections:
       button: More info
       url: https://www.cnb.gov.sg
       alt: Image alt text
+      image: /images/Capture.png
 ---
