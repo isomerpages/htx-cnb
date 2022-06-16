@@ -46,4 +46,11 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: Sam testing
+      subtitle: TEST 2nd Infopic section
+      description: Test will images scrolling
+      button: More info
+      url: https://www.cnb.gov.sg
+      alt: Image alt text
 ---
