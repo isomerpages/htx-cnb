@@ -3,11 +3,9 @@ title: Intoxicating and substances Act (INSA)
 permalink: /drug-information/Intoxicating-and-Substances
 description: ""
 ---
-
-
-
-
 **INTOXICATING SUBSTANCES ACT (INSA)**
+
+![test mage](/images/BZP%20and%20TFMPP.jpg)
 
 The Intoxicating Substances Act (INSA) is the main legislation for inhalant offences.
 
