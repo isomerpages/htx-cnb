@@ -44,5 +44,4 @@ This video is the perfect classroom resource for educators looking for an introd
 
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
 | -------- | -------- | -------- |
-|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |
-
+|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021](/files/central-narcotics-bureau-(cnb)-bulletin-2012-final-(2).pdf)
