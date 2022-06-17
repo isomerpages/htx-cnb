@@ -18,15 +18,17 @@ ______________
 
 **Virtual tours NEW**
 
-**2. Video but how to display in a frame with the image on
-[Sneak peak of our Heritage Gallery](https://youtu.be/OTs-Yb35V2s)**
+**2. Video, It Works! :D**
+
+**Sneak peak of our Heritage Gallery**
+
+<a href="https://youtu.be/OTs-Yb35V2s" target="_blank"> ![](/images/CNBHeritaheGalleryVideo.jpg)</a>
 
 Hosted by CNB officers from the Community Partnership Division, this 6.45-minute-long video provides a quick introduction to the heritage of CNB and offers a sneak peek of the Gallery.
-
 This video is the perfect classroom resource for educators looking for an introductory video to use in your drug education lessons with the students.
 
 
-**3. Virtual Tour, **
+**3. Virtual Tour, it Works! :D**
 
 **360 degree virtual tour**
 <a href="https://www.cnb.gov.sg/heritage-gallery-virtual-tour" target="_blank"> ![](/images/virtual.jpg)</a>
