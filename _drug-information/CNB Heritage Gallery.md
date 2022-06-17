@@ -35,12 +35,14 @@ This video is the perfect classroom resource for educators looking for an introd
 	
 **4. SGform can be display within the frame**
 [Feedback]
-<iframe style="width:100%;height:500px" src="https://form.gov.sg/62ac140d2a353600112329a6" id="iframe3" target="_blank"></iframe>
+<iframe style="width:80%;height:200px" src="https://form.gov.sg/62ac140d2a353600112329a6" id="iframe3" target="_blank"></iframe>
 
 
 
-**5. documents that are more than 5MB, can we apply storage space?? eg google drive etc? how CNB apply, can Isomer tram advise?**
+**5. documents that are more than 5MB, we can use go.gov.sg but Max(10MB). Therefore we need to split the document**
 
-[cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36)
 
-<a href="https://go.gov.sg/inrm36" target="_blank"> ![](/images/Cnb-annual-bulletin-2020-final.jpg)</a>
+| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
+| -------- | -------- | -------- |
+|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |
+
