@@ -38,4 +38,7 @@ This video is the perfect classroom resource for educators looking for an introd
 <iframe style="width:100%;height:500px" src="https://form.gov.sg/62ac140d2a353600112329a6" id="iframe3" target="_blank"></iframe>
 
 
-**5. documents that are more than 5MB, can we apply storage space?? eg google drive etc? how CNB apply, can Isomer tram advise?
+
+**5. documents that are more than 5MB, can we apply storage space?? eg google drive etc? how CNB apply, can Isomer tram advise?**
+
+[cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36)
