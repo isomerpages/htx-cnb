@@ -39,7 +39,9 @@ This video is the perfect classroom resource for educators looking for an introd
 
 
 
-**5. documents that are more than 5MB, we can use go.gov.sg but Max(10MB). Therefore we need to split the document**
+**5. documents that are more than 5MB, 2 alternatives**
+1. we can use go.gov.sg but Max(10MB). 
+2. To split the document**
 
 
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
