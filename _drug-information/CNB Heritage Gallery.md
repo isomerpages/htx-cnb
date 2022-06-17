@@ -15,14 +15,6 @@ ______
 Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*</font>
 
 ______________
-<!--
-issue 1 :- Using this facing this issue "Intended <iframe> content violates Content Security Policy and therefore could not be displayed. Isomer does not support display of any forbidden resources.  
-Intended <iframe> content violates Content Security Policy and therefore could not be displayed. Isomer does not support display of any forbidden resources.
-
-<iframe src="" style="border: 2px solid blue;"></iframe>
-<iframe style="width:100%;height:500px" src="https://youtu.be/OTs-Yb35V2s" id="iframe1"></iframe>
--->
-
 
 **Virtual tours NEW**
 
@@ -33,15 +25,8 @@ Hosted by CNB officers from the Community Partnership Division, this 6.45-minute
 
 This video is the perfect classroom resource for educators looking for an introductory video to use in your drug education lessons with the students.
 
-<!--
-issue 2 :- Using this facing this issue "Intended <iframe> content violates Content Security Policy and therefore could not be displayed. Isomer does not support display of any forbidden resources.  
-Intended <iframe> content violates Content Security Policy and therefore could not be displayed. Isomer does not support display of any forbidden resources.
 
-<iframe src="" style="border: 2px solid blue;"></iframe>
-<iframe style="width:100%;height:500px" src="https://www.cnb.gov.sg/heritage-gallery-virtual-tour" id="iframe2"></iframe>
--->
-
-**3. Virtual Tour, but how to display within a frame and with image on**
+**3. Virtual Tour, **
 
 **360 degree virtual tour**
 <a href="https://www.cnb.gov.sg/heritage-gallery-virtual-tour" target="_blank"> ![](/images/virtual.jpg)</a>
