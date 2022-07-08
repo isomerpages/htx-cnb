@@ -3,6 +3,16 @@ title: CNB Heritage Gallery
 permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
+**testing via hosting at Webkitchen**
+**Documents**
+[annual Document](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
+
+
+| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2018-final (22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf) |  |
+| -------- | -------- | -------- |
+|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021](/files/central-narcotics-bureau-(cnb)-bulletin-2012-final-(2).pdf)
+
+
 This page consists of 
 1. Vica - need Isomer team to embedded
 2. Youtube- works
@@ -11,14 +21,6 @@ This page consists of
 5. Files -5MB, 10MB, >10MB- to spilt the file.
 
 
-
-**testing via hosting at Webkitchen**
-**Documents**
-[annual Document](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
-
-| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
-| -------- | -------- | -------- |
-|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021](/files/central-narcotics-bureau-(cnb)-bulletin-2012-final-(2).pdf)
 
 
 
