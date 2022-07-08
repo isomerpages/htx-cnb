@@ -11,6 +11,13 @@ This page consists of
 5. Files -5MB, 10MB, >10MB- to spilt the file.
 
 
+
+**testing via hosting at Webkitchen**
+**Documents**
+[annual Document](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
+
+
+
 **1.  For VICA, we are to provide Isomer team the JS, CSS and website Codes, the team will help us to implement.  Remember the image updates too.**
 
 The CNB Heritage Gallery tour is a key component in CNB’s Learning Journey programme, and is offered to schools and various public organisations to help members of the public gain a better understanding of Singapore’s history with drug abuse and drug control strategies. It is also offered to schools as part of the [after school engagement](https://www.cnb.gov.sg/educational-resources/core-programmes/after-school-engagement-programme)
@@ -47,6 +54,7 @@ This video is the perfect classroom resource for educators looking for an introd
 
 
 
+[https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf "https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf")
 **5. documents that are more than 5MB, 2 alternatives**
 1. we can use go.gov.sg but Max(10MB). 
 2. To split the document
