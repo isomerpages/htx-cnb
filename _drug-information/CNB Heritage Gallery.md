@@ -3,8 +3,12 @@ title: CNB Heritage Gallery
 permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
-**testing via hosting at Webkitchen**
-**Documents**
+**TESTING Via Hosting Infra @ Webkitchen**
+**Virtual Tour**
+
+<a href="(https://vttrial.webkitchen.sg/cnb-360vt-test/)" target="_blank"> ![](/images/virtual.jpg)</a>
+
+**Large Size Documents**
 [annual Document](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
 
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2018-final (22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf) |  |
@@ -13,6 +17,7 @@ description: ""
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
 | -------- | -------- | -------- |
 |  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021](/files/central-narcotics-bureau-(cnb)-bulletin-2012-final-(2).pdf)
+
 
 
 This page consists of 
