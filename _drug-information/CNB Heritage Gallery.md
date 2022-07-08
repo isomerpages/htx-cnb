@@ -6,7 +6,7 @@ description: ""
 **TESTING Via Hosting Infra @ Webkitchen**
 **Virtual Tour**
 
-<a href="(https://vttrial.webkitchen.sg/cnb-360vt-test/)" target="_blank"> ![](/images/virtual.jpg)</a>
+<a href="https://vttrial.webkitchen.sg/cnb-360vt-test" target="_blank"> ![](/images/virtual.jpg)</a>
 
 **Large Size Documents**
 [annual Document](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
