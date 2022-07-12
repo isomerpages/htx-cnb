@@ -23,6 +23,9 @@ We transfer this file onto WebKitchen infra using CPannel and call the document 
 |  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021(22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)||
 
 
+| ![]row1 column 1 | row1 column 2 | row1 column3|row1 column4|
+| -------- | -------- | -------- |
+|  ![]row2 column 2 | row2 column 2 | row2 column3|
 
 This page consists of 
 1. Vica - need Isomer team to embedded
