@@ -2,19 +2,19 @@ title: Central Narcotics Bureau
 url: ""
 favicon: /images/CNB.jpg
 colors:
-  primary-color: "#8b2a3a"
-  secondary-color: "#4372d6"
+  primary-color: "#f8e71c"
+  secondary-color: "#8b572a"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#50e3c2"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#b8e986"
     - title: media-color-three
-      color: "#00838f"
+      color: "#f5a623"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f8e71c"
     - title: media-color-five
-      color: "#00838f"
+      color: "#bd10e0"
 resources_name: Resources
 description: Central Narcotics Bureau of the Singapore Government
 permalink: none
