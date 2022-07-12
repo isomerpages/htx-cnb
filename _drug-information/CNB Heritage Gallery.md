@@ -23,9 +23,9 @@ description: ""
 This page consists of 
 1. Vica - need Isomer team to embedded
 2. Youtube- works
-3. Virtual tour- checking where can we host this file?
+3. Virtual tour- checking where can we host this file? Fixed( tested via Webkitchen)>> User can also use any other infra hosting site.  
 4. SGform- works
-5. Files -5MB, 10MB, >10MB- to spilt the file.
+5. Files -5MB, 10MB, >10MB- to spilt the file.c  Fixed ( tested via Webkitchen above)
 
 
 
