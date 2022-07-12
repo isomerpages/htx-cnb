@@ -6,9 +6,13 @@ description: ""
 **TESTING Via Hosting Infra @ Webkitchen**
 **Virtual Tour**
 
+This virtual tour Package and player are host in th eWebKitchen infra: We will use hyperlink to call the VT from Isomer:
 <a href="https://vttrial.webkitchen.sg/cnb-360vt-test/" target="_blank"> ![](/images/virtual.jpg)</a>
 
-**Large Size Documents**
+
+**Documents with Size >=5MB
+**
+We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:
 [annual Document](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
 
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2018-final (22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf) |  |
