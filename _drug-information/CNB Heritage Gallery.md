@@ -14,14 +14,9 @@ This virtual tour Package and player are host in th eWebKitchen infra: We will u
 **
 We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:**
 
-
-
-| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2018-final (22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf) |  |
-| -------- | -------- | -------- |
-
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
 | -------- | -------- | -------- |
-|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021](/files/central-narcotics-bureau-(cnb)-bulletin-2012-final-(2).pdf)
+|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021(22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)
 
 
 
