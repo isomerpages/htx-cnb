@@ -12,7 +12,7 @@ This virtual tour Package and player are host in th eWebKitchen infra: We will u
 
 **Documents with Size >=5MB
 **
-We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:
+We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:**
 
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2018-final (22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf) |  |
 | -------- | -------- | -------- |
