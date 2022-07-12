@@ -8,7 +8,11 @@ description: ""
 
 This virtual tour Package and player are host in th eWebKitchen infra: We will use hyperlink to call the VT from Isomer:
 <a href="https://vttrial.webkitchen.sg/cnb-360vt-test/" target="_blank"> ![](/images/virtual.jpg)</a>
+<font size=2> 
+We have created a 360o Virtual Tour of the Heritage Gallery as an interactive digital space to facilitate experiential learning online. This virtual tour allows visitors to navigate the Gallery in a 3D environment, providing visitors with a more immersive experience. Click on the image above to step inside the Gallery. Tap on the orange circles to explore the Gallery along the recommended path, and toggle with the options on screen to explore the images, videos and sounds located around the Gallery!
 
+Guided virtual tours of the Heritage Gallery is also available upon request, and can be incorporated into the virtual Learning Journey programme for schools and organisations. Interested schools and organisations can drop us an email at [CNB\_Community\_Partnership@cnb.gov.sg](mailto:CNB_Community_Partnership@cnb.gov.sg) to enquire.
+</font>
 
 **Documents with Size >=5MB
 **
