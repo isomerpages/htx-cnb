@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: CNB Contact Us page
 locations:
   - address:
       - 31 Sesame Street
@@ -28,9 +28,9 @@ locations:
       - 123 Street One
       - Singapore 123456
       - ""
-    title: UAT Office
     operating_hours: []
     maps_link: ""
+    title: UAT Office
 contacts:
   - content:
       - phone: +65 6123 4567
