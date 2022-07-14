@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - SCDF/.keep
       - SPF/SPF2.md
       - SPF/SPF1.md
       - SPF/.keep
