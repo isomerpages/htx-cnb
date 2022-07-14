@@ -2,14 +2,14 @@ collections:
   publications:
     output: true
     order:
-      - CBN/CNB1.md
-      - CBN/.keep
-      - SPF/.keep
-      - SPF/SPF2.md
-      - SPF/SPF1.md
       - SCDF/.keep
       - SCDF/SCDF3.md
       - SCDF/SCDF2.md
       - SCDF/SCDF1.md
-      - ICA/ICA1.md
+      - SPF/.keep
+      - SPF/SPF2.md
+      - SPF/SPF1.md
       - ICA/.keep
+      - ICA/ICA1.md
+      - CBN/.keep
+      - CBN/CNB1.md
