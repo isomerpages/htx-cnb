@@ -55,3 +55,10 @@ links:
   - title: Menu Title
     url: /permalink
     sublinks: []
+  - title: Publications
+    url: /permalink
+    sublinks:
+      - title: SPF
+        url: /Publications/SPF1
+      - title: Submenu Title
+        url: /permalink
