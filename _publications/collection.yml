@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - CBN/.keep
       - SPF/.keep
       - SPF/SPF2.md
       - SPF/SPF1.md
