@@ -2,8 +2,6 @@ collections:
   publications:
     output: true
     order:
-      - HTX/.keep
-      - SPS/.keep
       - SCDF/.keep
       - SCDF/SCDF3.md
       - SCDF/SCDF2.md
@@ -13,5 +11,7 @@ collections:
       - SPF/SPF1.md
       - ICA/.keep
       - ICA/ICA1.md
+      - HTX/.keep
+      - SPS/.keep
       - CNB/.keep
       - CNB/CNB1.md
