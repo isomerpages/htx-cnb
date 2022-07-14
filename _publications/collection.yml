@@ -2,4 +2,5 @@ collections:
   publications:
     output: true
     order:
+      - SPF/.keep
       - SPF.md
