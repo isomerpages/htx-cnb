@@ -2,11 +2,11 @@ collections:
   publications:
     output: true
     order:
-      - ICA/.keep
+      - SPF/.keep
+      - SPF/SPF2.md
+      - SPF/SPF1.md
+      - SCDF/.keep
       - SCDF/SCDF3.md
       - SCDF/SCDF2.md
       - SCDF/SCDF1.md
-      - SCDF/.keep
-      - SPF/SPF2.md
-      - SPF/SPF1.md
-      - SPF/.keep
+      - ICA/.keep
