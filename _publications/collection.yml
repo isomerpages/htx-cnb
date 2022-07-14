@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - SCDF/SCDF3.md
       - SCDF/SCDF2.md
       - SCDF/SCDF1.md
       - SCDF/.keep
