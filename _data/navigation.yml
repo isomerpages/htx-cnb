@@ -56,11 +56,4 @@ links:
     url: /permalink
     sublinks: []
   - title: Publications
-    url: /permalink
-    sublinks:
-      - title: SPF
-        url: /Publications/SPF
-      - title: SCDF
-        url: /Publications/SPF
-      - title: ICA
-        url: /Publications/ICA
+    collection: publications
