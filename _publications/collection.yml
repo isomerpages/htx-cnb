@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - HTX/.keep
       - SPS/.keep
       - SCDF/.keep
       - SCDF/SCDF3.md
