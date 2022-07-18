@@ -30,14 +30,18 @@ We transfer this file onto WebKitchen infra using CPannel and call the document 
 This page consists of 
 1. Vica - need Isomer team to embedded
 2. Youtube- works with iframe.  Steps
-3. 
-4.  Virtual tour- checking where can we host this file? Fixed( tested via Webkitchen)>> User can also use any other infra hosting site.  
-5. SGform- works
-6. Files -5MB, 10MB, >10MB- to spilt the file.c  Fixed ( tested via Webkitchen above)
-7.  f the website or Isomer is down, the Isomer team will be notified immediately, upon which we'll inform the relevant agency, and in such cases Isomer will assist in resolving the issue.  MOP will not be able to access the site, hence not be able to see anything.
-8.  For deployment, 
+					The iframe format is as follows; 
+						1.      Go to any youtube videos
+						2.      Click on the share button
+					  3.      Click on "Embed"
+						4.      Click on the copy button 
+						5.      Paste the code on the CMS.
+3.  Virtual tour- checking where can we host this file? Fixed( tested via Webkitchen)>> User can also use any other infra hosting site.  
+4. SGform- works
+5. Files -5MB, 10MB, >10MB- to spilt the file.c  Fixed ( tested via Webkitchen above)
+6.  f the website or Isomer is down, the Isomer team will be notified immediately, upon which we'll inform the relevant agency, and in such cases Isomer will assist in resolving the issue.  MOP will not be able to access the site, hence not be able to see anything.
+7.  For deployment, 
 ·        Once pages are approved, **and a merge is performed on GitHub,** it will be deployed to Production immediately, with changes being visible to MOP within 5 minutes.
-
 ·        Migration failure: During migration, general unavailability is expected considering DNS changes. Checks on potential points of failures - DNS settings, production instances, are done prior to migration to mitigate chances of failure.
 
 
