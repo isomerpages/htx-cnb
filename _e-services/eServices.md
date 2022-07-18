@@ -4,6 +4,7 @@ permalink: /e-services/eService
 description: ""
 ---
 
+
 | ![](/images/e-service%20feedbacks.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) | 
 | -------- | -------- | -------- |
 |  |[CNB Bulletin 2021(22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)||
@@ -30,4 +31,3 @@ https://www.eservices.cnb.gov.sg/supervisee/
 https://www.eservices.cnb.gov.sg/dc/
 
 https://www.eservices.cnb.gov.sg/hwh/
-
