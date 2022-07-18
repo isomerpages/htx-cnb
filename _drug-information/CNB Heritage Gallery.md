@@ -56,6 +56,8 @@ ______________
 **2. Video, It Works! :D**
 
 **Sneak peak of our Heritage Gallery**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTs-Yb35V2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <a href="https://youtu.be/OTs-Yb35V2s" target="_blank"> ![](/images/CNBHeritaheGalleryVideo.jpg)</a>
 
