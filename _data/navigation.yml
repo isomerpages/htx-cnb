@@ -48,12 +48,10 @@ links:
         url: /permalink
   - title: Career
     collection: careers
-  - title: Menu Title
-    resource_room: true
   - title: explainers
     url: /permalink
   - title: e-Services
-    url: /permalink
+    url: e-services
     sublinks: []
   - title: Publications
     collection: publications
