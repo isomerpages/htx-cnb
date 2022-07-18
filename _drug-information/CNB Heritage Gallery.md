@@ -5,28 +5,6 @@ description: ""
 ---
 **TESTING Via Hosting Infra @ Webkitchen**
 **Virtual Tour**
-
-This virtual tour Package and player are host in th eWebKitchen infra: We will use hyperlink to call the VT from Isomer:
-<a href="https://vttrial.webkitchen.sg/cnb-360vt-test/" target="_blank"> ![](/images/virtual.jpg)</a>
-<font size=2> 
-We have created a 360o Virtual Tour of the Heritage Gallery as an interactive digital space to facilitate experiential learning online. This virtual tour allows visitors to navigate the Gallery in a 3D environment, providing visitors with a more immersive experience. Click on the image above to step inside the Gallery. Tap on the orange circles to explore the Gallery along the recommended path, and toggle with the options on screen to explore the images, videos and sounds located around the Gallery!
-
-Guided virtual tours of the Heritage Gallery is also available upon request, and can be incorporated into the virtual Learning Journey programme for schools and organisations. Interested schools and organisations can drop us an email at [CNB\_Community\_Partnership@cnb.gov.sg](mailto:CNB_Community_Partnership@cnb.gov.sg) to enquire.
-</font>
-
-**Documents with Size >=5MB
-**
-We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:**
-
-| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) | testing 3rd column |testing 4th Column|
-| -------- | -------- | -------- |
-|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021(22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)||
-
-
-| ![]row1 column 1 | row1 column 2 | row1 column3|row1 column4|
-| -------- | -------- | -------- |
-|  ![]row2 column 2 | row2 column 2 | row2 column3|
-
 This page consists of 
 1. Vica - need Isomer team to embedded
 2. Youtube- works with iframe.  Steps
@@ -92,3 +70,26 @@ This video is the perfect classroom resource for educators looking for an introd
 | ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) |  |
 | -------- | -------- | -------- |
 |  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021](/files/central-narcotics-bureau-(cnb)-bulletin-2012-final-(2).pdf)
+
+
+
+This virtual tour Package and player are host in th eWebKitchen infra: We will use hyperlink to call the VT from Isomer:
+<a href="https://vttrial.webkitchen.sg/cnb-360vt-test/" target="_blank"> ![](/images/virtual.jpg)</a>
+<font size=2> 
+We have created a 360o Virtual Tour of the Heritage Gallery as an interactive digital space to facilitate experiential learning online. This virtual tour allows visitors to navigate the Gallery in a 3D environment, providing visitors with a more immersive experience. Click on the image above to step inside the Gallery. Tap on the orange circles to explore the Gallery along the recommended path, and toggle with the options on screen to explore the images, videos and sounds located around the Gallery!
+
+Guided virtual tours of the Heritage Gallery is also available upon request, and can be incorporated into the virtual Learning Journey programme for schools and organisations. Interested schools and organisations can drop us an email at [CNB\_Community\_Partnership@cnb.gov.sg](mailto:CNB_Community_Partnership@cnb.gov.sg) to enquire.
+</font>
+
+**Documents with Size >=5MB
+**
+We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:**
+
+| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) | testing 3rd column |testing 4th Column|
+| -------- | -------- | -------- |
+|  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021(22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)||
+
+
+| ![]row1 column 1 | row1 column 2 | row1 column3|row1 column4|
+| -------- | -------- | -------- |
+|  ![]row2 column 2 | row2 column 2 | row2 column3|
