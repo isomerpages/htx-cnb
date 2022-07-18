@@ -73,7 +73,7 @@ Guided virtual tours of the Heritage Gallery is also available upon request, and
 3. Documents with Size >=5MB
 We transfer this file onto WebKitchen infra using CPannel and call the document using hyperlin in Isomer like this:**
 
-| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) | testing 3rd column |testing 4th Column|
+| ![](/images/Cnb-annual-bulletin-2020-final.jpg) | [cnb-annual-bulletin-2020-final (6.2MB)](https://go.gov.sg/inrm36) | 
 | -------- | -------- | -------- |
 |  ![](/images/CNB%20Annual%20Bulletin%202012.jpg) |[CNB Bulletin 2021(22MB)](https://vttrial.webkitchen.sg/cnb-annual-bulletin-2018.pdf)||
 
