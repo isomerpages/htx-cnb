@@ -41,6 +41,7 @@ ______________
 
 **Sneak peak of our Heritage Gallery**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OTs-Yb35V2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <font size=2> 
 Hosted by CNB officers from the Community Partnership Division, this 6.45-minute-long video provides a quick introduction to the heritage of CNB and offers a sneak peek of the Gallery.
 This video is the perfect classroom resource for educators looking for an introductory video to use in your drug education lessons with the students.
