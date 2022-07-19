@@ -2,5 +2,6 @@ collections:
   micorsites:
     output: true
     order:
+      - Marinabarrage/Key Events.md
       - Marinabarrage/.keep
       - ADAC/.keep
