@@ -2,7 +2,7 @@ collections:
   micorsites:
     output: true
     order:
-      - ADAC/Community Activities.md
-      - ADAC/Key Events.md
-      - ADAC/About ADAC.md
       - ADAC/.keep
+      - ADAC/About ADAC.md
+      - ADAC/Key Events.md
+      - ADAC/Community Activities.md
