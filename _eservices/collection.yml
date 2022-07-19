@@ -1,5 +1,4 @@
 collections:
   eservices:
     output: true
-    order:
-      - e services.md
+    order: []
