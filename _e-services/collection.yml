@@ -1,5 +1,5 @@
 collections:
-  eservices:
+  e-services:
     output: true
     order:
       - eServices.md
