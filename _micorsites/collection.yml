@@ -2,10 +2,6 @@ collections:
   micorsites:
     output: true
     order:
-      - ADAC/.keep
-      - ADAC/Community Activities.md
-      - ADAC/Key Events.md
-      - ADAC/FAQs.md
       - Marinabarrage/.keep
       - Marinabarrage/FAQs.md
       - Marinabarrage/Community Activities.md
