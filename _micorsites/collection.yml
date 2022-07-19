@@ -2,6 +2,7 @@ collections:
   micorsites:
     output: true
     order:
+      - Marinabarrage/FAQs.md
       - Marinabarrage/Community Activities.md
       - Marinabarrage/Key Events.md
       - Marinabarrage/.keep
