@@ -2,4 +2,4 @@ collections:
   eservices:
     output: true
     order:
-      - eserv.md
+      - eServices.md
