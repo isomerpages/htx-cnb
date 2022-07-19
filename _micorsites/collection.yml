@@ -1,4 +1,5 @@
 collections:
   micorsites:
     output: true
-    order: []
+    order:
+      - ADAC.md
