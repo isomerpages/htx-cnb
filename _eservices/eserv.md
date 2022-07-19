@@ -8,10 +8,10 @@ description: ""
 | Text     | Text     | Text     |
 
 
-<a href="https://www.eservices.cnb.gov.sg/feedback/" ![](/images/e-service%20feedbacks.jpg)> </a>
+<a href="https://www.eservices.cnb.gov.sg/feedback/"> ![](/images/e-service%20feedbacks.jpg)
 
-
-
+	
+	//
 
 [Feedback and Enquiries (cnb.gov.sg)](https://www.eservices.cnb.gov.sg/feedback/)
 
