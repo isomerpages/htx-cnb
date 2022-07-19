@@ -2,5 +2,6 @@ collections:
   micorsites:
     output: true
     order:
+      - ADAC/Key Events.md
       - ADAC/About ADAC.md
       - ADAC/.keep
