@@ -14,7 +14,7 @@ notification: '** There will be scheduled maintenance for the CNB Website on
   https://www.cnb.gov.sg/contact-us'
 sections:
   - hero:
-      background: /images/CNB-about-us.jpg
+      background: /images/aboutus.jpg
       title: About Us
   - infopic:
       title: Drug Information
