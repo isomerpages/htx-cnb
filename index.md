@@ -15,9 +15,6 @@ notification: <p style="text-align:left;color:white;font-size:14px;">** There
 sections:
   - hero:
       background: /images/CNB-about-us.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
