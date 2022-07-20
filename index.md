@@ -14,8 +14,7 @@ notification: '** There will be scheduled maintenance for the CNB Website on
   https://www.cnb.gov.sg/contact-us'
 sections:
   - hero:
-      background: /images/aboutus.jpg
-      title: About Us
+      background: /images/aboutus1.jpg
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
