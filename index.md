@@ -15,6 +15,7 @@ notification: '** There will be scheduled maintenance for the CNB Website on
 sections:
   - hero:
       background: /images/CNB-about-us.jpg
+      title: About Us
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
