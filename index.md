@@ -15,21 +15,9 @@ notification: <p style="text-align:left;color:white;font-size:14px;">** There
 sections:
   - hero:
       background: /images/CNB-about-us.jpg
-      key_highlights:
-        - title: True Account of A Drug Abuser
-          description: ""
-          url: /highlights/Drug-Abuser
-        - title: Overseas Drugs Consumption Advisory
-          description: ""
-          url: /highlights/Oversea-Drug-Consumption-Advisory
-        - title: "Key Highlight #3"
-          description: Key Highlight description
-          url: /highlights/Oversea-Drug-Consumption-Advisory
-        - title: "Key Highlight #4 (Max)"
-          description: Key Highlight description
-          url: /highlights/Oversea-Drug-Consumption-Advisory
-      url: /highlights/Abuser
-      button: misuse of drugs act
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infopic:
       title: Drug Information
       subtitle: Commonly Abused Drugs
