@@ -3,7 +3,7 @@ url: ""
 favicon: /images/CNB.jpg
 colors:
   primary-color: "#011e41"
-  secondary-color: "#011e41"
+  secondary-color: "#30bebc"
   media-colors:
     - title: media-color-one
       color: "#011e41"
