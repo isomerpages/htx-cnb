@@ -5,13 +5,13 @@ description: Central Narcotics Bureau of the Singapore Government
 image: /images/CNB Logo.jpg
 permalink: /
 notification: <p style="text-align:left;color:red;font-size:14px;">** There will
-  be scheduled maintenance for the CNB Website on 6 April 2022 from 12pm to 1pm.
-  The website will not be available during this period of time.  We apologise
-  for any inconvenience caused. <br>**Beware of fake/phishing SMS masses or
-  email that impersonate the Central Narcotics Bureau(CNB). CNB does not send
-  clicakable lins in SMS message.  CNB Officers will only send emaoils from
-  addresses ending with "@cnb.gov.sg.". If in doubt, you may contact us via the
-  official channels listed at https://www.cnb.gov.sg/contact-us</p>
+  be scheduled maintenance for the CNB Website on <u>6 April 2022</u>from 12pm
+  to 1pm. The website will not be available during this period of time.  We
+  apologise for any inconvenience caused. <br>**Beware of fake/phishing SMS
+  masses or email that impersonate the Central Narcotics Bureau(CNB). CNB does
+  not send clicakable lins in SMS message.  CNB Officers will only send emaoils
+  from addresses ending with "@cnb.gov.sg.". If in doubt, you may contact us via
+  the official channels listed at https://www.cnb.gov.sg/contact-us</p>
 sections:
   - hero:
       background: /images/CNB-about-us.jpg
