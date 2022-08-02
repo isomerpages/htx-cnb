@@ -3,7 +3,6 @@ title: CNB Heritage Gallery
 permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
-
 **Testing jumping anchor link**
 <h2 id="Lorem_Ipsum">Lorem Ipsum</h2>
 <p class="main-content">
