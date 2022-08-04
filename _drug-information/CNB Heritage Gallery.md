@@ -3,25 +3,18 @@ title: CNB Heritage Gallery
 permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
-<section class="accordion">
-  <input type="radio" name="collapse" id="handle1" checked="checked">
-  <h2 class="handle">
-    <label for="handle1">
-    The Visible Short Heading 
-    </label>
-  </h2>
-  
-  <div class="content">
-    <p>Your detailed contents...</p>  
-  </div>
-</section>
-  <input type="radio" name="collapse" id="handle2">
-  <h2 class="handle">
-    <label for="handle2">
-     Another Heading 
-    </label>
-  </h2>
-	
+<details>
+  <summary>
+    What is the meaning of life?
+    <span class="icon">👇</span>
+  </summary>
+  <p>
+    42
+  </p>
+</details>
+
+
+
 **Testing jumping anchor link**
 <h2 id="Lorem_Ipsum1">Lorem Ipsum (Sample Jumping anchor link)</h2>
 <div class="main-content1 ">
