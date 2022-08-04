@@ -5,9 +5,7 @@ description: ""
 ---
 **Frequently Asked Questions**
 <details>
-  <summary>
-		<h2 id="faq1" style="font-size:15px !important;">What is the minimum qualification to be a CNB officer?  
-  	</h2>
+  <summary>What is the minimum qualification to be a CNB officer?
 		<span class="icon">👇</span>
   </summary>
   <p>
@@ -19,7 +17,7 @@ description: ""
 </details>
 <details>
   <summary>
-				<h2 id="faq2" style="font-size:15px !important;">
+				<h2 style="font-size:15px !important;" id="faq2">
 		I would like to know if I am allowed to bring poppy seeds into Singapore for my baking business.  
   	</h2>
   	<span class="icon">👇</span>
@@ -41,7 +39,7 @@ The HSA report must be submitted to the Central Narcotics Bureau (CNB). In the e
 
 <details>
   <summary>
-		<h2 id="faq3" style="font-size:15px !important;">
+		<h2 style="font-size:15px !important;" id="faq3">
 		Smoking cannabis is not dangerous. There are no side-effects. </h2><span class="icon">👇</span>
   </summary>
   <p>
@@ -97,7 +95,7 @@ B. For deployment,
 **1.  For VICA, we are to provide Isomer team the JS, CSS and website Codes, the team will help us to implement.  Remember the image updates too.**
 
 
-<font color="#FF0000" size="2"> 
+<font size="2" color="#FF0000"> 
 Please note that physical tours to the CNB Heritage Gallery are currently not available. The Gallery remains closed till further notice, as the well-being of our visitors and staff remain our primary concern. We will post details of our re-opening on our social media and website in due time. However, you can still have a peek of the Gallery from the comfort of your home! Check out the links below.*</font>
 
 ______________
@@ -107,7 +105,7 @@ ______________
 **2. Video, It Works! :D**
 
 **Sneak peak of our Heritage Gallery**
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OTs-Yb35V2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/OTs-Yb35V2s" height="315" width="560"></iframe>
 
 *Hosted by CNB officers from the Community Partnership Division, this 6.45-minute-long video provides a quick introduction to the heritage of CNB and offers a sneak peek of the Gallery.
 This video is the perfect classroom resource for educators looking for an introductory video to use in your drug education lessons with the students.
@@ -118,7 +116,7 @@ This video is the perfect classroom resource for educators looking for an introd
 **360 degree virtual tour**
 
 This virtual tour Package and player are host in th eWebKitchen infra: We will use hyperlink to call the VT from Isomer:
-<a href="https://vttrial.webkitchen.sg/cnb-360vt-test/" target="_blank"> ![](/images/virtual.jpg)</a>
+<a target="_blank" href="https://vttrial.webkitchen.sg/cnb-360vt-test/"> ![](/images/virtual.jpg)</a>
 <font size="2"> 
 We have created a 360o&nbsp;Virtual Tour of the Heritage Gallery as an interactive digital space to facilitate experiential learning online. This virtual tour allows visitors to navigate the Gallery in a 3D environment, providing visitors with a more immersive experience. Click on the image above to step inside the Gallery. Tap on the orange circles to explore the Gallery along the recommended path, and toggle with the options on screen to explore the images, videos and sounds located around the Gallery!
 
@@ -129,7 +127,7 @@ Guided virtual tours of the Heritage Gallery is also available upon request, and
 	
 **4. SGform can be display within the frame**
 [Feedback]
-<iframe style="width:80%;height:200px" src="https://form.gov.sg/62ac140d2a353600112329a6" id="iframe3" target="_blank"></iframe>
+<iframe target="_blank" id="iframe3" src="https://form.gov.sg/62ac140d2a353600112329a6" style="width:80%;height:200px"></iframe>
 
 
 
