@@ -3,7 +3,7 @@ title: CNB Heritage Gallery
 permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
-Frequently Asked Questions
+
 <details>
   <summary>
 		<h2 id="faq1">What is the minimum qualification to be a CNB officer?  
@@ -19,8 +19,10 @@ Frequently Asked Questions
 </details>
 <details>
   <summary>
-		I would like to know if I am allowed to bring poppy seeds into Singapore for my baking business.  
-  	<span class="icon">👇</span>
+		<h2 id="faq2">I would like to know if I am allowed to bring poppy seeds into Singapore for my baking business.  
+  	
+  	</h2>
+		<span class="icon">👇</span>
   </summary>
   <p>
   </p>
@@ -39,8 +41,9 @@ The HSA report must be submitted to the Central Narcotics Bureau (CNB). In the e
 
 <details>
   <summary>
-		Smoking cannabis is not dangerous. There are no side-effects.  
-  	<span class="icon">👇</span>
+				<h2 id="faq3">Smoking cannabis is not dangerous. There are no side-effects.  
+    	</h2>
+		<span class="icon">👇</span>
   </summary>
   <p>
   </p>
