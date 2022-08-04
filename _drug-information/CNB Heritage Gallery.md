@@ -4,9 +4,32 @@ permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
 **Frequently Asked Questions**
+
 <details>
-  <summary id="faq1">What is the minimum qualification to be a CNB officer?
-		<span class="icon">👇</span>
+  <summary id="faq0">
+		Smoking cannabis is not dangerous. There are no side-effects. <span class="icon">👇</span>
+  </summary>
+  <p>
+  </p>
+	<div class="main-content3">
+	<p>This is false! Cannabis poses as much dangers as other drugs. Abusers could experience:
+
+Difficulties in maintaining coherent thought
+Difficulties in estimating elapsed time
+Memory impairment
+Disorientation
+Anxiety, delusion, aggressiveness (in more severe cases)
+Rapid pulse, increased blood pressure
+Dry Mouth
+Affects the heart and lungs
+Difficulties in coordination
+Cannabis is a Class A drug under the Misuse of Drugs Act. Possession or consumption of Cannabis up to 10 years of imprisonment or S$20,000 fine or BOTH..
+</p>
+ </div>Go to the<a href="#faq3">top</a>.<p></p>
+<p></p>
+</details>
+<details>
+  <summary id="faq0">What is the minimum qualification to be a CNB officer?		<span class="icon">👇</span>
   </summary>
   <p>
   </p>
