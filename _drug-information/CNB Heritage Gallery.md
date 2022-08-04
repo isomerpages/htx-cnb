@@ -5,7 +5,7 @@ description: ""
 ---
 **Frequently Asked Questions**
 
-
+<p></p>
 <details>
   <summary id="faq0">What is the minimum qualification to be a CNB officer?		<span class="icon">👇</span>
   </summary>
@@ -13,9 +13,10 @@ description: ""
   </p>
 	<div class="main-content1">
 	<p>For more information, visit our 'Careers' page at https://www.cnb.gov.sg/careers.</p>
- </div>Go to the<a href="#faq0">top</a>.<p></p>
-<p></p>
+ </div>
+	<p></p>
 </details>
+
 <details>
   <summary id="faq2">
 				I would like to know if I am allowed to bring poppy seeds into Singapore for my baking business.  
