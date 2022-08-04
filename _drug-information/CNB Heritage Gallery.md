@@ -33,7 +33,7 @@ If the sample is in the form of food products, it is to be sent to the Division 
 
 The HSA report must be submitted to the Central Narcotics Bureau (CNB). In the event HSA certifies that the poppy seeds are cleared of any controlled substances, ie no traces of morphine detected, CNB will endorse and approve the Inward Declaration Form. With the endorsement by CNB, Singapore Customs will allow the poppy seeds to be imported into Singapore. If the poppy seeds are found to contain traces of controlled substances, the approval for importation will not be given.
 </p>
- </div>Go to the<a href="#faq2">top</a>.<p></p>
+	</div><font color="#FF0000"> Go to the </font><a href="#faq2">top</a>.<p></p>
 <p></p>
 </details>
 
