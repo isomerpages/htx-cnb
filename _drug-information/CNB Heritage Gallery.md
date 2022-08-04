@@ -7,7 +7,8 @@ description: ""
 <details>
   <summary>
 		<h2 id="faq1" style="font-size:15px !important;">What is the minimum qualification to be a CNB officer?  
-  	</h2><span class="icon">👇</span>
+  	</h2>
+		<span class="icon">👇</span>
   </summary>
   <p>
   </p>
