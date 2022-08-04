@@ -7,14 +7,14 @@ description: ""
 
 <p></p>
 <details>
-  <summary id="faq0">What is the minimum qualification to be a CNB officer?		<span class="icon">👇</span>
+  <summary id="faq1">What is the minimum qualification to be a CNB officer?		<span class="icon">👇</span>
   </summary>
   <p>
   </p>
 	<div class="main-content1">
 	<p>For more information, visit our 'Careers' page at https://www.cnb.gov.sg/careers.</p>
- </div>
-	<p></p>
+	</div><font color="#FFFFFF"> Go to the <a href="#faq1">top</a>.</font><p></p>
+<p></p>
 </details>
 
 <details>
