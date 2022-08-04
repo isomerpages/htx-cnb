@@ -3,12 +3,11 @@ title: CNB Heritage Gallery
 permalink: /drug-information/CNB-Heritage-Gallery
 description: ""
 ---
-Frequently Asked Questions
+**Frequently Asked Questions**
 <details>
   <summary>
-		<h2 id="faq1" style="font-size:20px !important;">What is the minimum qualification to be a CNB officer?  
-  	</h2>
-		<span class="icon">👇</span>
+		<h2 id="faq1" style="font-size:15px !important;">What is the minimum qualification to be a CNB officer?  
+  	</h2><span class="icon">👇</span>
   </summary>
   <p>
   </p>
@@ -19,7 +18,7 @@ Frequently Asked Questions
 </details>
 <details>
   <summary>
-				<h2 id="faq2" style="font-size:20px !important;">
+				<h2 id="faq2" style="font-size:15px !important;">
 		I would like to know if I am allowed to bring poppy seeds into Singapore for my baking business.  
   	</h2>
   	<span class="icon">👇</span>
