@@ -15,7 +15,13 @@ description: ""
     <p>Your detailed contents...</p>  
   </div>
 </section>
-
+  <input type="radio" name="collapse" id="handle2">
+  <h2 class="handle">
+    <label for="handle2">
+     Another Heading 
+    </label>
+  </h2>
+	
 **Testing jumping anchor link**
 <h2 id="Lorem_Ipsum1">Lorem Ipsum (Sample Jumping anchor link)</h2>
 <div class="main-content1 ">
