@@ -16,10 +16,9 @@ description: ""
 <p></p>
 </details>
 <details>
-  <summary>
+  <summary id="faq2">
 				I would like to know if I am allowed to bring poppy seeds into Singapore for my baking business.  
-  	</h2>
-  	<span class="icon">👇</span>
+  <span class="icon">👇</span>
   </summary>
   <p>
   </p>
@@ -37,9 +36,8 @@ The HSA report must be submitted to the Central Narcotics Bureau (CNB). In the e
 </details>
 
 <details>
-  <summary>
-		<h2 style="font-size:15px !important;" id="faq3">
-		Smoking cannabis is not dangerous. There are no side-effects. </h2><span class="icon">👇</span>
+  <summary id="faq3">
+		Smoking cannabis is not dangerous. There are no side-effects. <span class="icon">👇</span>
   </summary>
   <p>
   </p>
