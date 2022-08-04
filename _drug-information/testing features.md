@@ -13,7 +13,7 @@ description: ""
   </p>
 	<div class="main-content1">
 	<p>For more information, visit our 'Careers' page at https://www.cnb.gov.sg/careers.</p>
-	</div><font color="#FFFFFF"> Go to the <a href="#faq1">top</a>.</font><p></p>
+	</div><font color="#FFFFFF"> Go to the <a href="#faq1">top</a>.</font>
 <p></p>
 </details>
 
