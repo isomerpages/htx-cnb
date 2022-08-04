@@ -41,11 +41,8 @@ The HSA report must be submitted to the Central Narcotics Bureau (CNB). In the e
 
 <details>
   <summary>
-		<h2 id="faq3" style="font-size:20px !important;">
-		Smoking cannabis is not dangerous. There are no side-effects.  
-  	</h2>
-		
-  	<span class="icon">👇</span>
+		<h2 id="faq3" style="font-size:15px !important;">
+		Smoking cannabis is not dangerous. There are no side-effects. </h2><span class="icon">👇</span>
   </summary>
   <p>
   </p>
