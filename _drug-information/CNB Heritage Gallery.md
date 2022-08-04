@@ -7,13 +7,13 @@ description: ""
 
 
 <details>
-  <summary id="faq1">What is the minimum qualification to be a CNB officer?		<span class="icon">👇</span>
+  <summary id="faq0">What is the minimum qualification to be a CNB officer?		<span class="icon">👇</span>
   </summary>
   <p>
   </p>
 	<div class="main-content1">
 	<p>For more information, visit our 'Careers' page at https://www.cnb.gov.sg/careers.</p>
- </div>Go to the<a href="#faq1">top</a>.<p></p>
+ </div>Go to the<a href="#faq0">top</a>.<p></p>
 <p></p>
 </details>
 <details>
