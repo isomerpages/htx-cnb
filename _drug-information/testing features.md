@@ -1,8 +1,20 @@
 ---
 title: testing features
-permalink: /drug-information/permalink
+permalink: /drug-information/permalink/
 description: ""
 ---
+6: Read from goggle drive - NCADA
+
+
+
+| ![](/images/2019AR.jpg) | |[2019-ncada-annual-report.pdf - Google Drive](https://drive.google.com/file/d/1qKaVTXHiPNBw7aaOsEx5nT6H33QE62x1/view) |
+| -------- | -------- | -------- |
+| ![](/images/2020AR.jpg)   | | [NCADA Annual Reports - Google Drive](https://drive.google.com/drive/folders/1-A3If11Hroh19my-Xl2gufoEhn9-MPd8)   |
+
+
+
+
+
 **Frequently Asked Questions**
 
 
