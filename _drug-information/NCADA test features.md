@@ -3,8 +3,7 @@ title: NCADA test features
 permalink: /drug-information/permalink/
 description: ""
 ---
-
-6: Read from goggle drive - NCADA
+6: Read from google drive - NCADA
 
 
 
