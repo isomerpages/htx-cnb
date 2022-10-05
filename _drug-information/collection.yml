@@ -2,7 +2,6 @@ collections:
   drug-information:
     output: true
     order:
-      - NCADA test features.md
       - CNB Heritage Gallery.md
       - Plants Contain Controlled Drugs.md
       - Precursor Control.md
