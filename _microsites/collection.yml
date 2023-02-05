@@ -1,5 +1,5 @@
 collections:
-  micorsites:
+  microsites:
     output: true
     order:
       - ADAC/.keep
