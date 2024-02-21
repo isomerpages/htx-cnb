@@ -5,4 +5,4 @@ description: ""
 ---
 A TEST Checker
 
-[Sample Checker](https://sample-repo-staging.netlify.app/integration/checkfirst)
+[Sample Checker](/integration/checkfirst)
